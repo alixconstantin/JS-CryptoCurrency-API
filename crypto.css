@@ -1,0 +1,21 @@
+html{
+    background-color:#1f2018;
+}
+
+.container {
+    background-image: linear-gradient(to right top, #2f2f25, #27271e, #1f2018, #181811, #0f1006);
+}
+
+h1 {
+    color: #e2e0ec;
+  }
+  
+#price {
+    font-size: 4em;
+  }
+.euro {
+    color: goldenrod;
+}
+.price_label{
+    color: rgb(180, 161, 114);
+}
